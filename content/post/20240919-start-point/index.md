@@ -7,10 +7,14 @@ date: 2024-09-19 02:30:00+0800
 categories:
   - misc
 tags:
-  - Example Tag
+  - self-introduction
 weight: 1 # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-歡迎來到ㄅㄨㄅㄨ的第一篇文章，你可能還不認識我，所以請容許我來個簡短的自我介紹
+# 誰
 
-![test](cover.jpg)
+> 簡短的自我介紹
+
+歡迎來到ㄅㄨㄅㄨ的第一篇文章，你可能還不認識我，所以請容許我來個簡短的自我介紹。
+
+(有空會補ㄏ)
